@@ -1,0 +1,487 @@
+{
+    "0": {
+        "title": "Yijung-tang improves thermogenesis and reduces inflammation associated with gut microbiota in hypothyroid rats.",
+        "abstract": "Currently, considerable attention is focused on exploring the potential relationship between herbal medicine (HM) and the gut microbiome in terms of thermoregulation, which is an important aspect of human health, in modern system biology. However, our knowledge of the mechanisms of HM in thermoregulation is inadequate. Here, we demonstrate that the canonical herbal formula, Yijung-tang (YJT), protects against hypothermia, hyperinflammation, and intestinal microbiota dysbiosis in PTU-induced hypothyroid rats. Notably, these properties were associated with alterations in the gut microbiota and signaling crosstalk between the thermoregulatory and inflammatory mediators in the small intestine and brown adipose tissue (BAT). In contrast to the conventional drug L-thyroxine for curing hypothyroidism, YJT has an efficacy for attenuating systematic inflammatory responses, related with depression in intestinal TLR4 and Nod2/Pglyrp1 signaling pathways. Our findings suggest that YJT could promote BAT thermogenesis and prevent systemic inflammation in PTU-induced hypothyroid rats, which was associated with its prebiotic effect on modulating of the gut microbiota and gene expression with relevance in the enteroendocrine function and innate immune systems. These findings may strengthen the rationale of the microbiota-gut-BAT axis for a paradigm shift to enable holobiont-centric medicine.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 16,
+        "gpt-3.5_n_keywords": 3,
+        "gpt-4_keywords": [
+            "gut microbiota",
+            "inflammation",
+            "dysbiosis",
+            "metabolism",
+            "bacteria",
+            "intestinal microbiota",
+            "immunity",
+            "gut-brain axis",
+            "prebiotics",
+            "intestinal flora",
+            "intestinal barrier",
+            "prebiotic",
+            "immune response",
+            "microbiota-gut-brain axis",
+            "cytokines",
+            "intestine"
+        ],
+        "gpt-3.5_keywords": [
+            "inflammation",
+            "gut microbiota",
+            "depression"
+        ]
+    },
+    "1": {
+        "title": "Targeted metabolomic analysis in Parkinson's disease brain frontal cortex and putamen with relation to cognitive impairment.",
+        "abstract": "We performed liquid chromatography tandem mass spectrometry analysis with the targeted metabolomic kit Biocrates MxP Quant 500, in human brain cortex (Brodmann area 9) and putamen, to reveal metabolic changes characteristic of Parkinson's disease (PD) and PD-related cognitive decline. This case-control study involved 101 subjects (33 PD without dementia, 32 PD with dementia (cortex only), 36 controls). We found changes associated with PD, cognitive status, levodopa levels, and disease progression. The affected pathways include neurotransmitters, bile acids, homocysteine metabolism, amino acids, TCA cycle, polyamines, \u03b2-alanine metabolism, fatty acids, acylcarnitines, ceramides, phosphatidylcholines, and several microbiome-derived metabolites. Previously reported levodopa-related homocysteine accumulation in cortex still best explains the dementia status in PD, which can be modified by dietary supplementation. Further investigation is needed to reveal the exact mechanisms behind this pathological change.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 3,
+        "gpt-3.5_n_keywords": 2,
+        "gpt-4_keywords": [
+            "metabolomics",
+            "neuroinflammation",
+            "bile acids"
+        ],
+        "gpt-3.5_keywords": [
+            "metabolomics",
+            "bile acids"
+        ]
+    },
+    "2": {
+        "title": "Antimony efflux underpins phosphorus cycling and resistance of phosphate-solubilizing bacteria in mining soils.",
+        "abstract": "Microorganisms play crucial roles in phosphorus (P) turnover and P bioavailability increases in heavy metal-contaminated soils. However, microbially driven P-cycling processes and mechanisms of their resistance to heavy metal contaminants remain poorly understood. Here, we examined the possible survival strategies of P-cycling microorganisms in horizontal and vertical soil samples from the world's largest antimony (Sb) mining site, which is located in Xikuangshan, China. We found that total soil Sb and pH were the primary factors affecting bacterial community diversity, structure and P-cycling traits. Bacteria with the gcd gene, encoding an enzyme responsible for gluconic acid production, largely correlated with inorganic phosphate (Pi) solubilization and significantly enhanced soil P bioavailability. Among the 106 nearly complete bacterial metagenome-assembled genomes (MAGs) recovered, 60.4% carried the gcd gene. Pi transportation systems encoded by pit or pstSCAB were widely present in gcd-harboring bacteria, and 43.8% of the gcd-harboring bacteria also carried the acr3 gene encoding an Sb efflux pump. Phylogenetic and potential horizontal gene transfer (HGT) analyses of acr3 indicated that Sb efflux could be a dominant resistance mechanism, and two gcd-harboring MAGs appeared to acquire acr3 through HGT. The results indicated that Sb efflux could enhance P cycling and heavy metal resistance in Pi-solubilizing bacteria in mining soils. This study provides novel strategies for managing and remediating heavy metal-contaminated ecosystems.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 5,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "microbiome",
+            "bacteria",
+            "microbial community",
+            "metagenomics",
+            "metagenome"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "3": {
+        "title": "Dissecting the impact of dietary fiber type on atherosclerosis in mice colonized with different gut microbial communities.",
+        "abstract": "Dietary fiber consumption has been linked with improved cardiometabolic health, however, human studies have reported large interindividual variations in the observed benefits. We tested whether the effects of dietary fiber on atherosclerosis are influenced by the gut microbiome. We colonized germ-free ApoE",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 10,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "gut microbiota",
+            "microbiome",
+            "inflammation",
+            "gut microbiome",
+            "diet",
+            "microbial community",
+            "nutrition",
+            "intestinal flora",
+            "intestinal barrier",
+            "immune response"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "4": {
+        "title": "Stress-responsive Gdf15 counteracts renointestinal toxicity via autophagic and microbiota reprogramming.",
+        "abstract": "The integrated stress response (ISR) plays a pivotal role in the cellular stress response, primarily through global translational arrest and the upregulation of cellular adaptation-linked molecules. Growth differentiation factor 15 (Gdf15) is a potent stress-responsive biomarker of clinical inflammatory and metabolic distress in various types of diseases. Herein, we assess whether ISR-driven cellular stress contributes to pathophysiological outcomes by modulating Gdf15. Clinical transcriptome analysis demonstrates that PKR is positively associated with Gdf15 expression in patients with renal injury. Gdf15 expression is dependent on protein kinase R (PKR)-linked ISR during acute renointestinal distress in mice and genetic ablation of Gdf15 aggravates chemical-induced lesions in renal tissues and the gut barrier. An in-depth evaluation of the gut microbiota indicates that Gdf15 is associated with the abundance of mucin metabolism-linked bacteria and their enzymes. Moreover, stress-responsive Gdf15 facilitates mucin production and cellular survival via the reorganization of the autophagy regulatory network. Collectively, ISR-activated Gdf15 counteracts pathological processes via the protective reprogramming of the autophagic network and microbial community, thereby providing robust predictive biomarkers and interventions against renointestinal distress.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 12,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "gut microbiota",
+            "inflammation",
+            "microbiome",
+            "oxidative stress",
+            "metabolism",
+            "bacteria",
+            "intestinal microbiota",
+            "microbial community",
+            "immunity",
+            "biomarkers",
+            "intestinal barrier",
+            "immune response"
+        ],
+        "gpt-3.5_keywords": [
+            "microbiota"
+        ]
+    },
+    "5": {
+        "title": "Bacteriophage targeting microbiota alleviates non-alcoholic fatty liver disease induced by high alcohol-producing Klebsiella pneumoniae.",
+        "abstract": "Our previous studies have shown that high alcohol-producing Klebsiella pneumoniae (HiAlc Kpn) in the intestinal microbiome could be one of the causes of non-alcoholic fatty liver disease (NAFLD). Considering antimicrobial resistance of K. pneumoniae and dysbacteriosis caused by antibiotics, phage therapy might have potential in treatment of HiAlc Kpn-induced NAFLD, because of the specificity targeting the bacteria. Here, we clarified the effectiveness of phage therapy in male mice with HiAlc Kpn-induced steatohepatitis. Comprehensive investigations including transcriptomes and metabolomes revealed that treatment with HiAlc Kpn-specific phage was able to alleviate steatohepatitis caused by HiAlc Kpn, including hepatic dysfunction and expression of cytokines and lipogenic genes. In contrast, such treatment did not cause significantly pathological changes, either in functions of liver and kidney, or in components of gut microbiota. In addition to reducing alcohol attack, phage therapy also regulated inflammation, and lipid and carbohydrate metabolism. Our data suggest that phage therapy targeting gut microbiota is an alternative to antibiotics, with potential efficacy and safety, at least in HiAlc Kpn-caused NAFLD.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 10,
+        "gpt-3.5_n_keywords": 2,
+        "gpt-4_keywords": [
+            "gut microbiota",
+            "microbiome",
+            "inflammation",
+            "intestinal microbiota",
+            "metabolism",
+            "bacteria",
+            "antibiotics",
+            "antibiotic resistance",
+            "antimicrobial resistance",
+            "cytokines"
+        ],
+        "gpt-3.5_keywords": [
+            "cytokines",
+            "inflammation"
+        ]
+    },
+    "6": {
+        "title": "Extracellular vesicles of the Gram-positive gut symbiont Bifidobacterium longum induce immune-modulatory, anti-inflammatory effects.",
+        "abstract": "The gut microbiota is now well known to affect the host's immune system. One way of bacterial communication with host cells is via the secretion of vesicles, small membrane structures containing various cargo. Research on vesicles secreted by Gram-positive gut bacteria, their mechanisms of interaction with the host and their immune-modulatory effects are still relatively scarce. Here we characterized the size, protein content, and immune-modulatory effects of extracellular vesicles (EVs) secreted by a newly sequenced Gram-positive human gut symbiont strain - Bifidobacterium longum AO44. We found that B. longum EVs exert anti-inflammatory effects, inducing IL-10 secretion from both splenocytes and dendritic cells (DC)-CD4+ T cells co-cultures. Furthermore, the EVs protein content showed enrichment in ABC transporters, quorum sensing proteins, and extracellular solute-binding proteins, which were previously shown to have a prominent function in the anti-inflammatory effect of other strains of B. longum. This study underlines the importance of bacterial vesicles in facilitating the gut bacterial immune-modulatory effects on the host and sheds light on bacterial vesicles as future therapeutics.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 7,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "gut microbiota",
+            "inflammation",
+            "probiotics",
+            "bacteria",
+            "immunity",
+            "immune response",
+            "cytokines"
+        ],
+        "gpt-3.5_keywords": [
+            "gut microbiota"
+        ]
+    },
+    "7": {
+        "title": "METTL3-dependent m",
+        "abstract": "Infertility is a worldwide reproductive health problem and there are still many unknown etiologies of infertility. In recent years, increasing evidence emerged and confirmed that epigenetic regulation played a leading role in reproduction. However, the function of m",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 0,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [],
+        "gpt-3.5_keywords": []
+    },
+    "8": {
+        "title": "The chigger microbiome: big questions in a tiny world.",
+        "abstract": "'Chiggers' (trombiculid mite larvae) are best known as vectors of rickettsial pathogens, Orientia spp., which cause a zoonosis, scrub typhus. However, several other pathogens (e.g., Hantaan orthohantavirus, Dabie bandavirus, Anaplasma spp., Bartonella spp., Borrelia spp., and Rickettsia spp.) and bacterial symbionts (e.g., Cardinium, Rickettsiella, and Wolbachia) are being reported from chiggers with increasing frequency. Here, we explore the surprisingly diverse chigger microbiota and potential interactions within this microcosm. Key conclusions include a possible role for chiggers as vectors of viral diseases; the dominance in some chigger populations of unidentified symbionts in several bacterial families; and increasing evidence for vertical transmission of potential pathogens and symbiotic bacteria in chiggers, suggesting intimate interactions and not simply incidental acquisition of bacteria from the environment or host.",
+        "human_keywords": 6,
+        "gpt-4_n_keywords": 4,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "bacteria",
+            "microbial diversity",
+            "microbial community",
+            "16s rrna"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "9": {
+        "title": "Harnessing biological nitrogen fixation in plant leaves.",
+        "abstract": "The importance of biological nitrogen fixation (BNF) in securing food production for the growing world population with minimal environmental cost has been increasingly acknowledged. Leaf surfaces are one of the biggest microbial habitats on Earth, harboring diverse free-living N",
+        "human_keywords": 6,
+        "gpt-4_n_keywords": 2,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "microbial community",
+            "microbial diversity"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "10": {
+        "title": "Letter to the Editor on the \"Effects of Microbiota-driven Therapy on Circulating Indoxyl Sulfate and p-Cresyl Sulfate in Patients with Chronic Kidney Disease: A Systematic Review and Meta-Analysis of Randomized Controlled Trials\".",
+        "abstract": null,
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 19,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "gut microbiota",
+            "microbiome",
+            "microbiota",
+            "probiotics",
+            "inflammation",
+            "intestinal microbiota",
+            "oxidative stress",
+            "metabolism",
+            "short-chain fatty acids",
+            "diet",
+            "microbial community",
+            "metabolites",
+            "intestinal flora",
+            "intestinal barrier",
+            "bile acids",
+            "immune response",
+            "16s rrna sequencing",
+            "cytokines",
+            "intestine"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "11": {
+        "title": "New insights on the effects of blend composition on the biodegradation and permeability of Inulin-Eudragit RS film coatings for colon drug delivery.",
+        "abstract": "Inulin has been applied in Inulin-Eudragit RS (Inu-ERS) coatings as the component responsible for degradation by human microbiota. However, studies on how bacterial enzymes can degrade polysaccharides like inulin imbedded in water insoluble polymers like Eudragit RS are still elusive. The present work aims at elucidating the complex process of enzyme triggered biodegradation of inulin with various molecular weights in isolated films with Eudragit RS. The ratio of inulin to Eudragit RS was varied to create films with different degree of hydrophilicity. The phase behavior study revealed that blends of inulin and Eudragit RS are phase separated systems. The film permeability was studied by determination of the permeability coefficient of caffeine and the fraction of inulin that was released from the films in a buffer solution with or without inulinase was quantified. Together with the morphology characterization of the Inu-ERS films with and without incubation in the enzyme solution, these results suggest that the action of the enzyme was only limited to the fraction of inulin released in the buffer solution. Inulin fully embedded in the Eudragit RS matrix was not degraded. The permeation of the model drug caffeine occurred in the phase-separated film as a result of pores formed as a consequence of inulin release. The inulin to Eudragit RS blend ratio and the molecular weight of inulin affected the percolation threshold, the release of inulin, the morphology of the film formed thereafter and the connectivity of the formed water channels, thus influencing the drug permeation properties.",
+        "human_keywords": 7,
+        "gpt-4_n_keywords": 7,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "gut microbiota",
+            "microbiome",
+            "intestinal microbiota",
+            "bacteria",
+            "colorectal cancer",
+            "intestinal barrier",
+            "prebiotics"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "12": {
+        "title": "Structural characterization of Hericium erinaceus polysaccharides and the mechanism of anti-T2DM by modulating the gut microbiota and metabolites.",
+        "abstract": "A low molecular weight polysaccharides of HEP-1, with molecular weights of 1.67\u202f\u00d7\u202f10",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 9,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "diabetes",
+            "metabolism",
+            "metabolites",
+            "inflammation",
+            "intestinal microbiota",
+            "oxidative stress",
+            "intestinal flora",
+            "intestinal barrier",
+            "immune response"
+        ],
+        "gpt-3.5_keywords": [
+            "metabolites"
+        ]
+    },
+    "13": {
+        "title": "An interplay between non-coding RNAs and gut microbiota in human health.",
+        "abstract": "Humans have a complicated symbiotic relationship with their gut microbiome, which is postulated to impact host health and disease broadly. Epigenetic alterations allow host cells to regulate gene expression without altering the DNA sequence. The gut microbiome, offering environmental hints, can influence responses to stimuli by host cells with modifications on their epigenome and gene expression. Recent increasing data suggest that regulatory non-coding RNAs (miRNAs, circular RNAs, and long lncRNA) may affect host-microbe interactions. These RNAs have been suggested as potential host response biomarkers in microbiome-associated disorders, including diabetes and cancer. This article reviews the current understanding of the interplay between gut microbiota and non-coding RNA, including lncRNA, miRNA, and circular RNA. This can lead to a profound understanding of human disease and influence therapy. Furthermore, microbiome engineering as a mainstream strategy for improving human health has been discussed and confirms the hypothesis about a direct cross-talk between microbiome composition and non-coding RNA.",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 5,
+        "gpt-3.5_n_keywords": 4,
+        "gpt-4_keywords": [
+            "gut microbiota",
+            "microbiome",
+            "biomarkers",
+            "cancer",
+            "diabetes"
+        ],
+        "gpt-3.5_keywords": [
+            "gut microbiota",
+            "microbiome",
+            "diabetes",
+            "cancer"
+        ]
+    },
+    "14": {
+        "title": "Perspective: Council for Responsible Nutrition (CRN) Science in Session. Optimizing Health with Nutrition - Opportunities, Gaps, and the Future.",
+        "abstract": "Achieving optimal health is an aspirational goal for the population, yet the definition of health remains unclear. The role of nutrition in health has evolved beyond correcting malnutrition and specific deficiencies, and has begun to focus more on achieving and maintaining 'optimal' health through nutrition. As such, the Council for Responsible Nutrition held its October 2022 Science in Session conference to advance this concept. Here, we summarize and discuss the findings of their Optimizing Health through Nutrition - Opportunities and Challenges workshop, including several gaps that need to be addressed to advance progress in the field. Defining and evaluating various indices of optimal health will require overcoming these key gaps. For example, there is a strong need to develop better biomarkers of nutrient status, including more accurate markers of food intake, as well as biomarkers of optimal health that account for maintaining resilience - the ability to recover from or respond to stressors without loss to physical and cognitive performance. In addition, there is a need to identify factors that drive individualized responses to nutrition, including genotype, metabotypes and the gut microbiome, and to realize the opportunity of precision nutrition for optimal health. This review outlines hallmarks of resilience, current examples of nutritional factors to optimize cognitive and performance resilience, and overview of various genetic, metabolic and microbiome determinants of individualized responses.",
+        "human_keywords": 8,
+        "gpt-4_n_keywords": 5,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "gut microbiota",
+            "intestinal microbiota",
+            "metabolism",
+            "biomarkers",
+            "gut-brain axis"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "15": {
+        "title": "Native fungal community remains resilient during bioremediation of DBP pollution by exogenous Gordonia phthalatica QH-11",
+        "abstract": "Microbial bioremediation is a highly effective method to degrade phthalates in the environment. However, the response of native microbial communities to the exogenously introduced microorganism remains unknown. In this study, the native fungal community was monitored by amplicon sequencing of the fungal ITS region during the restoration process of the di-n-butyl phthalate (DBP)-contaminated soils with Gordonia phthalatica QH-11",
+        "human_keywords": 5,
+        "gpt-4_n_keywords": 2,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "microbial community",
+            "fungi"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "16": {
+        "title": "Epigallocatechin-3-gallate ameliorates polystyrene microplastics-induced anxiety-like behavior in mice by modulating gut microbe homeostasis.",
+        "abstract": "Polystyrene microplastics (PS-MPs) have emerged as a concerning pollutant in modern society due to their widespread production and usage. Despite ongoing research efforts, the impact of PS-MPs on mammalian behavior and the mechanisms driving these effects remain incompletely elucidated. Consequently, effective strategies for prevention have yet to be developed. To fill these gaps, C57BL/6 mice were orally administered with 5\u202f\u03bcm PS-MPs for 28 consecutive days in this study. The open-field test and the elevated plus-maze test were performed to evaluate the anxiety-like behavior, 16S rRNA sequencing and untargeted metabolomics analysis were used to detect the changes of gut microbiota and serum metabolites. Our results indicated that PS-MPs exposure activated hippocampal inflammation and induced anxiety-like behavior in mice. Meanwhile, PS-MPs disturbed the gut microbiota, impaired the intestinal barrier, and aroused peripheral inflammation. Specifically, PS-MPs increased the abundance of pathogenic microbiota Tuzzerella, while lowered the abundance of probiotics Faecalibaculum and Akkermansia. Interestingly, eliminating the gut microbiota protected against the deleterious effects of PS-MPs on intestinal barrier integrity, reduced the levels of peripheral inflammatory cytokines, and ameliorated anxiety-like behavior. Additionally, green tea's primary bioactive constituent, epigallocatechin-3-gallate (EGCG), optimized gut microbial composition, improved intestinal barrier function, reduced peripheral inflammation, and exerted anti-anxiety effects by inhibiting the hippocampal TLR4/MyD88/NF-\u03baB signaling cascade. EGCG also remodeled serum metabolism, especially modulated purine metabolism. These findings suggested that gut microbiota participates in PS-MPs-induced anxiety-like behavior by modulating the gut-brain axis, and that EGCG could serve as a potential preventive strategy.",
+        "human_keywords": 6,
+        "gpt-4_n_keywords": 6,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "gut-brain axis",
+            "inflammation",
+            "microbiome",
+            "metabolomics",
+            "16s rrna",
+            "microplastics"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "17": {
+        "title": "Long-read metagenomic sequencing reveals that high-copy small plasmids shape the highly prevalent antibiotic resistance genes in animal fecal microbiome.",
+        "abstract": "The emergence and prevalence of animal-derived antibiotic resistance genes (ARGs) pose a great threat to public health globally. Long-read metagenomic sequencing is increasingly being used to decipher the fate of environmental ARGs. However, the investigations of the distribution, co-occurrence patterns, and host information of animal-derived environmental ARGs with long-read metagenomic sequencing have received little attention. To cover the gap, we employed a novel QitanTech nanopore long-read metagenomic sequencing method to perform a comprehensive and systematic investigation of the microbial communities and antibiotic resistance profiles, as well as to analyze the host information and genetic structures of ARGs in the feces of laying hens. Our results showed that highly abundant and diverse ARGs were detected in the feces of different ages of laying hens, indicating that feeding animal feces was an important reservoir for the enrichment and maintenance of ARGs. The distribution pattern of chromosomal ARGs was more strongly associated with fecal microbial communities than plasmid-mediated ARGs. Further long-read host tracking analysis revealed that ARGs from Proteobacteria are commonly located on plasmids, whereas in Firmicutes, they are usually carried by chromosomes. Co-occurrence analysis displayed that co-selection phenomena of different ARGs were common occurrences and highly active insertion sequences (ISs) could result in the serious prevalence of many ARGs. Notably, small high-copy plasmids played a significant role in the dissemination of several ARGs, such as floR and tet(L), which could disturb the compositions of fecal ARGs. Overall, our findings significantly expand our knowledge of the comprehensive landscape of feeding animal feces resistome, which is important for the prevention and management of multi-drug resistant bacteria in laying hens.",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 7,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "metagenomics",
+            "microbiome",
+            "microbial community",
+            "antibiotic resistance genes",
+            "antimicrobial resistance",
+            "metagenome",
+            "high-throughput sequencing"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "18": {
+        "title": "Gut microbiota: a magical multifunctional target regulated by medicine food homology species.",
+        "abstract": "The relationship between gut microbiota and human health has gradually been recognized. Increasing studies show that the disorder of gut microbiota is related to the occurrence and development of many diseases. Metabolites produced by the gut microbiota are responsible for their extensive regulatory roles. In addition, naturally derived medicine food homology species with low toxicity and high efficiency have been clearly defined owing to their outstanding physiological and pharmacological properties in disease prevention and treatment.\nof Review: Based on supporting evidence, the current review summarizes the representative work of medicine food homology species targeting the gut microbiota to regulate host pathophysiology and discusses the challenges and prospects in this field. It aims to facilitate the understanding of the relationship among medicine food homology species, gut microbiota, and human health and further stimulate the advancement of more relevant research. Key Scientific Concepts of Review: As this review reveals, from the initial practical application to more mechanism studies, the relationship among medicine food homology species, gut microbiota, and human health has evolved into an irrefutable interaction. On the one hand, through affecting the population structure, metabolism, and function of gut microbiota, medicine food homology species maintain the homeostasis of the intestinal microenvironment and human health by affecting the population structure, metabolism, and function of gut microbiota. On the other hand, the gut microbiota is also involved in the bioconversion of the active ingredients from medicine food homology species and thus influences their physiological and pharmacological properties.",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 16,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "microbiome",
+            "microbiota",
+            "intestinal microbiota",
+            "metabolism",
+            "bacteria",
+            "metabolites",
+            "diet",
+            "microbial community",
+            "immunity",
+            "gut",
+            "nutrition",
+            "intestinal flora",
+            "intestinal barrier",
+            "immune response",
+            "diversity",
+            "intestine"
+        ],
+        "gpt-3.5_keywords": [
+            "metabolites"
+        ]
+    },
+    "19": {
+        "title": "Stigmasterol Protects Against Steatohepatitis Induced by High-Fat and High-Cholesterol Diet in Mice by Enhancing the Alternative Bile Acid Synthesis Pathway.",
+        "abstract": "Hepatic cholesterol accumulation is a significant risk factor in the progression of non-alcoholic fatty liver disease (NAFLD) to steatohepatitis. However, the precise mechanism by which stigmasterol mitigates this process remains unclear.\nThis study aimed to investigate the potential mechanism underlying the protective effect of stigmasterol in mice with NAFLD progressing to steatohepatitis while being fed a high-fat, high-cholesterol (HFHC) diet.\nMale C57BL/6 mice were fed an HFHC diet for 16 weeks to establish the NAFLD model. Subsequently, the mice received stigmasterol or a vehicle via oral gavage while continuing the HFHC diet for an additional 10 weeks. The study evaluated hepatic lipid deposition and inflammation, as well as the expression of key rate-limiting enzymes involved in the bile acid (BA) synthesis pathways. BAs in the colonic contents were quantified using ultra-performance liquid chromatography tandem mass spectrometry (UPLC-MS/MS).\nCompared to the vehicle control group, stigmasterol significantly reduced hepatic cholesterol accumulation (p < 0.01) and suppressed the gene expression of NLRP3 inflammasome and interleukin-18 (p < 0.05) in the livers of HFHC diet-fed mice. The total fecal BA content in the stigmasterol group was nearly double that of the vehicle control group. Additionally, the administration of stigmasterol increased the levels of representative hydrophilic BAs in the colonic contents (p < 0.05) along with the upregulation of gene and protein expression of oxysterol 7-\u03b1-hydroxylase (CYP7B1) (p < 0.01). Furthermore, stigmasterol enhanced the alpha diversity of the gut microbiota and partially reversed the alterations in the relative abundance of the gut microbiota induced by the HFHC diet.\nStigmasterol mitigates steatohepatitis by enhancing the alternative pathway for bile acid synthesis.",
+        "human_keywords": 5,
+        "gpt-4_n_keywords": 9,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "inflammation",
+            "metabolism",
+            "bile acids",
+            "diet",
+            "immune response",
+            "intestinal barrier",
+            "oxidative stress",
+            "obesity",
+            "intestinal flora"
+        ],
+        "gpt-3.5_keywords": [
+            "inflammation"
+        ]
+    },
+    "20": {
+        "title": "Intestinal microbiota regulates colonic inflammation in fluorosis mice by TLR/NF-\u03baB pathway through short-chain fatty acids.",
+        "abstract": "Intestinal inflammation and microbial dysbiosis are found simultaneously in patients with fluorosis. However, whether the inflammation derived from fluoride exposure only or intestinal microbial disorders has not been clarified. In this study, 100 mg/L NaF exposure for 90 days significantly elevated the expressions of inflammatory factors (TNF-\u03b1, IL-1\u03b2, IL-6, IFN-\u03b3, TGF-\u03b2, and IL-10), and the levels of TLR4, TRAF6, Myd88, IKK\u03b2, and NF-\u03baB P65 in mouse colon, while the above factors were reduced in pseudo germ-free mice with fluorosis, hinting that disordered microbiota might play a more direct role in the development of colonic inflammation than fluoride. Fecal microbiota transplantation (FMT) lowered the levels of inflammatory factors and inactivated the TLR/NF-\u03baB pathway in fluoride-exposed mice. In addition, supplementing short-chain fatty acids (SCFAs) exhibited the identical effects to the model of FMT. In summary, intestinal microbiota may alleviate the colonic inflammatory of mice with fluorosis by regulating TLR/NF-\u03baB pathway through SCFAs.",
+        "human_keywords": 6,
+        "gpt-4_n_keywords": 8,
+        "gpt-3.5_n_keywords": 3,
+        "gpt-4_keywords": [
+            "intestinal microbiota",
+            "inflammation",
+            "short-chain fatty acids",
+            "fecal microbiota transplantation",
+            "oxidative stress",
+            "bacteria",
+            "immune response",
+            "cytokines"
+        ],
+        "gpt-3.5_keywords": [
+            "intestinal microbiota",
+            "short-chain fatty acids",
+            "fecal microbiota transplantation"
+        ]
+    },
+    "21": {
+        "title": "Secreted Akkermansia muciniphila threonyl-tRNA synthetase functions to monitor and modulate immune homeostasis.",
+        "abstract": "Commensal bacteria are critically involved in the establishment of tolerance against inflammatory challenges, the molecular mechanisms of which are just being uncovered. All kingdoms of life produce aminoacyl-tRNA synthetases (ARSs). Thus far, the non-translational roles of ARSs have largely been reported in eukaryotes. Here, we report that the threonyl-tRNA synthetase (AmTARS) of the gut-associated bacterium Akkermansia muciniphila is secreted and functions to monitor and modulate immune homeostasis. Secreted AmTARS triggers M2 macrophage polarization and orchestrates the production of anti-inflammatory IL-10 via its unique, evolutionary-acquired regions, which mediates specific interactions with TLR2. This interaction activates the MAPK and PI3K/AKT signaling pathways, which converge on CREB, leading to an efficient production of IL-10 and suppression of the central inflammatory mediator NF-\u03baB. AmTARS restores IL-10-positive macrophages, increases IL-10 levels in the serum, and attenuates the pathological effects in colitis mice. Thus, commensal tRNA synthetases can act as intrinsic mediators that maintain homeostasis.",
+        "human_keywords": 7,
+        "gpt-4_n_keywords": 12,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "intestinal microbiota",
+            "inflammatory bowel disease",
+            "bacteria",
+            "colorectal cancer",
+            "immunity",
+            "immune response",
+            "ulcerative colitis",
+            "gut",
+            "intestinal barrier",
+            "colitis",
+            "cytokines",
+            "intestine"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "22": {
+        "title": "Zearalenone attenuates colitis associated colorectal tumorigenesis through Ras/Raf/ERK pathway suppression and SCFA-producing bacteria promotion.",
+        "abstract": "The high prevalence of colorectal cancer (CRC) and its leading death causing rate have placed a considerable burden on patients and healthcare providers. There is a need for a therapy that has fewer adverse effects and greater efficiency. Zearalenone (ZEA), an estrogenic mycotoxin, has been demonstrated to exert apoptotic properties when administrated in higher doses. However, it is unclear whether such apoptotic effect remains valid in an in vivo setting. The current study aimed to investigate the effect of ZEA on CRC and its underlying mechanisms in the azoxymethane/ dextran sodium sulfate (AOM/DSS) model. Our results revealed that ZEA significantly lowered the total number of tumours, colon weight, colonic crypt depth, collagen fibrosis and spleen weight. ZEA suppressed Ras/Raf/ERK/cyclin D1 pathway, increasing the expression of apoptosis parker, cleaved caspase 3, while decreasing the expression of proliferative marker, Ki67 and cyclin D1. The gut microbiota composition in ZEA group showed higher stability and lower vulnerability in the microbial community when compared to AOM/DSS group. ZEA increased the abundance of short chain fatty acids (SCFAs) producing bacteria unidentified Ruminococcaceae, Parabacteroidies and Blautia, as well as the faecal acetate content. Notably, unidentified Ruminococcaceae and Parabacteroidies were substantially correlated with the decrease in tumour count. Overall, ZEA demonstrated a promising inhibitory effect on colorectal tumorigenesis and exhibited the potential for further development as a CRC treatment.",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 8,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "colorectal cancer",
+            "short-chain fatty acids",
+            "inflammation",
+            "intestinal microbiota",
+            "inflammatory bowel disease",
+            "bacteria",
+            "colitis",
+            "microbiome"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "23": {
+        "title": "Mechanistic insights into the anti-tumor and anti-metastatic effects of Patrinia villosa aqueous extract in colon cancer via modulation of TGF-\u03b2 R1-smad2/3-E-cadherin and FAK-RhoA-cofilin pathways.",
+        "abstract": "Patrinia villosa, a traditional medicinal herb commonly used for treating intestinal-related diseases, has been commonly prescribed by Chinese medicine practitioners as a key component herb to treat colon cancer, although its anti-tumor effect and mechanisms of action have not been fully elucidated.\nThis study aimed to investigate the anti-tumor and anti-metastatic effects of Patrinia villosa aqueous extract (PVW), and its underlying mechanisms.\nThe chemical profile of PVW was analysed by high-performance liquid chromatography with photodiode-array detection (HPLC-DAD) method. Cell-based functional assays MTT, BrdU, scratch, and transwell were conducted to evaluate the effects of PVW on human colon cancer HCT116 and murine colon26-luc cells, assessing cytotoxicity, cell proliferation, motility, and migration, respectively. Western blotting was performed to assess the effect of PVW on the expression of key intracellular signaling proteins. In vivo studies were conducted using zebrafish embryos and tumor-bearing mice to evaluate the anti-tumor, anti-angiogenesis, and anti-metastatic effects of PVW in colon cancer.\nFive chemical markers were identified and quantified in PVW. PVW exhibited significant cytotoxicity and anti-proliferative activity, as well as inhibitory effects on cell motility and migration in both HCT116 and colon 26-luc cancer cells via modulating protein expressions of TGF-\u03b2 R1, smad2/3, snail, E-cadherin, FAK, RhoA, and cofilin. PVW (0.01-0.1\u00a0mg/ml) could significantly decrease the length of subintestinal vessels of zebrafish embryos through decreasing mRNA expressions of FLT1, FLT4, KDRL, VEGFaa, VEGFc, and Tie1. PVW (> 0.05\u00a0mg/ml) also significantly suppressed colon cancer cells migration in the zebrafish embryos. Furthermore, oral administration of PVW (1.6\u00a0g/kg) significantly inhibited tumor growth by decreasing the expressions of tumor activation marker Ki-67 and CD 31 in tumor tissues of HCT116 tumor-bearing mice. PVW could also significantly inhibit lung metastasis in colon 26-luc tumor-bearing mice by modulating their tumor microenvironment, including immune cells populations (T cells and MDSCs), levels of cytokines (IL-2, IL-12, and IFN-\u03b3), as well as increasing the relative abundance of gut microbiota.\nThis study revealed for the first time the anti-tumor and anti-metastatic effects of PVW through regulation of TGF-\u03b2-smad2/3-E-cadherin, and FAK-cofilin pathways in colon cancer. These findings provide scientific evidence to support the clinical use of P. villosa in patients with colon cancer.",
+        "human_keywords": 6,
+        "gpt-4_n_keywords": 6,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "intestinal microbiota",
+            "colorectal cancer",
+            "cancer",
+            "immunity",
+            "cytokines",
+            "inflammation"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "24": {
+        "title": "Obesity, gut microbiota, and multiple sclerosis: Unraveling the connection.",
+        "abstract": "Obesity is associated with chronic mild-grade systemic inflammation and neuroinflammation. Obesity in early childhood and adolescence is also a significant risk factor for multiple sclerosis (MS) development. However, the underlying mechanisms that explain the link between obesity and MS development are not fully explored. An increasing number of studies call attention to the importance of gut microbiota as a leading environmental risk factor mediating inflammatory central nervous system demyelination, particularly in MS. Obesity and high-calorie diet are also associated with disturbances in gut microbiota. Therefore, gut microbiota alteration is a plausible connection between obesity and the increased risk of MS development. A greater understanding of this connection could provide additional therapeutic opportunities, like dietary interventions, microbiota-derived products, and exogenous antibiotics and probiotics. This review summarizes the current evidence regarding the relationships between MS, obesity, and gut microbiota. We discuss gut microbiota as a potential link between obesity and increased risk for MS. Additional experimental studies and controlled clinical trials targeting gut microbiota are warranted to unravel the possible causal relationship between obesity and increased risk of MS.",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 9,
+        "gpt-3.5_n_keywords": 9,
+        "gpt-4_keywords": [
+            "inflammation",
+            "probiotics",
+            "dysbiosis",
+            "diet",
+            "immunity",
+            "antibiotics",
+            "gut-brain axis",
+            "nutrition",
+            "immune response"
+        ],
+        "gpt-3.5_keywords": [
+            "inflammation",
+            "microbiome",
+            "probiotics",
+            "dysbiosis",
+            "metagenomics",
+            "metabolism",
+            "diet",
+            "microbiota-gut-brain axis",
+            "immune response"
+        ]
+    }
+}

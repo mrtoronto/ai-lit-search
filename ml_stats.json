@@ -1,0 +1,451 @@
+{
+    "0": {
+        "title": "Deep Learning Model Based on Dual-Modal Ultrasound and Molecular Data for Predicting Response to Neoadjuvant Chemotherapy in Breast Cancer.",
+        "abstract": "To carry out radiomics analysis/deep convolutional neural network (CNN) based on B-mode ultrasound (BUS) and shear wave elastography (SWE) to predict response to neoadjuvant chemotherapy (NAC) in breast cancer patients.\nIn this prospective study, 255 breast cancer patients who received NAC between September 2016 and December 2021 were included. Radiomics models were designed using a support vector machine classifier based on US images obtained before treatment, including BUS and SWE. And CNN models also were developed using ResNet architecture. The final predictive model was developed by combining the dual-modal US and independently associated clinicopathologic characteristics. The predictive performances of the models were assessed with five-fold cross-validation.\nPretreatment SWE performed better than BUS in predicting the response to NAC for breast cancer for both the CNN and radiomics models (P\u00a0<\u00a00.001). The predictive results of the CNN models were significantly better than the radiomics models, with AUCs of 0.72 versus\u00a00.69 for BUS and 0.80 versus 0.77 for SWE, respectively (P\u00a0=\u00a00.003). The CNN model based on the dual-modal US and molecular data exhibited outstanding performance in predicting NAC response, with an accuracy of 83.60%\u00a0\u00b1\u00a02.63%, a sensitivity of 87.76%\u00a0\u00b1\u00a06.44%, and a specificity of 77.45%\u00a0\u00b1\u00a04.38%.\nThe pretreatment CNN model based on the dual-modal US and molecular data achieved excellent performance for predicting the response to chemotherapy in breast cancer. Therefore, this model has the potential to serve as a non-invasive objective biomarker to predict NAC response and aid clinicians with individual treatments.",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 8,
+        "gpt-3.5_n_keywords": 4,
+        "gpt-4_keywords": [
+            "convolutional neural network",
+            "breast cancer",
+            "prediction",
+            "support vector machine",
+            "radiomics",
+            "biomarkers",
+            "diagnosis",
+            "prediction model"
+        ],
+        "gpt-3.5_keywords": [
+            "prediction model",
+            "convolutional neural network",
+            "radiomics",
+            "support vector machine"
+        ]
+    },
+    "1": {
+        "title": "Speech comprehension across time, space, frequency, and age: MEG-MVPA classification of intertrial phase coherence.",
+        "abstract": "Language is a key part of human cognition, essential for our well-being at all stages of our lives. Whereas many neurocognitive abilities decline with age, for language the picture is much less clear, and how exactly speech comprehension changes with ageing is still unknown. To investigate this, we employed magnetoencephalography (MEG) and recorded neuromagnetic brain responses to auditory linguistic stimuli in healthy participants of younger and older age using a passive task-free paradigm and a range of different linguistic stimulus contrasts, which enabled us to assess neural processing of spoken language at multiple levels (lexical, semantic, morphosyntactic). Using machine learning-based classification algorithms to scrutinise intertrial phase coherence of MEG responses in cortical source space, we found that patterns of oscillatory neural activity diverged between younger and older participants across several frequency bands (alpha, beta, gamma) for all tested linguistic information types. The results suggest multiple age-related changes in the brain's neurolinguistic circuits, which may be due to both healthy ageing in general and compensatory processes in particular.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 5,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "machine learning",
+            "natural language processing",
+            "neural network",
+            "classification",
+            "prediction"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "2": {
+        "title": "Lung cancer lesion detection in histopathology images using graph-based sparse PCA network.",
+        "abstract": "Early detection of lung cancer is critical for improvement of patient survival. To address the clinical need for efficacious treatments, genetically engineered mouse models (GEMM) have become integral in identifying and evaluating the molecular underpinnings of this complex disease that may be exploited as therapeutic targets. Assessment of GEMM tumor burden on histopathological sections\u00a0performed by manual inspection is both time consuming and prone to subjective bias. Therefore, an interplay of needs and challenges exists for computer-aided diagnostic tools, for accurate and efficient analysis of these histopathology images. In this paper, we propose a simple machine learning approach called the graph-based sparse principal component analysis (GS-PCA) network, for automated detection of cancerous lesions on histological lung slides stained by hematoxylin and eosin (H&E). Our method comprises four steps: 1) cascaded graph-based sparse PCA, 2) PCA binary hashing, 3) block-wise histograms, and 4) support vector machine (SVM) classification. In our proposed architecture, graph-based sparse PCA is employed to learn the filter banks of the multiple stages of a convolutional network. This is followed by PCA hashing and block histograms for indexing and pooling. The meaningful features extracted from this GS-PCA are then fed to an SVM classifier. We evaluate the performance of the proposed algorithm on H&E slides obtained from an inducible K-ras",
+        "human_keywords": 5,
+        "gpt-4_n_keywords": 5,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "support vector machine",
+            "cancer",
+            "feature extraction",
+            "computer vision",
+            "diagnosis"
+        ],
+        "gpt-3.5_keywords": [
+            "support vector machine"
+        ]
+    },
+    "3": {
+        "title": "Machine Learning Analysis of Postlaparoscopy Hernias and \"I'm Leaving You to Close\" Strategy.",
+        "abstract": "Contributing factors to postlaparoscopy hernia are unknown. We hypothesized that postlaparoscopy incisional hernias are increased when the index surgery was performed in teaching hospitals. Laparoscopic cholecystectomy was chosen as the archetype for open umbilical access.\nMaryland and Florida SID/SASD databases (2016-2019) wereused to track 1-year hernia incidence in both inpatient and outpatient settings, which was then linked to Hospital Compare, Distressed Communities Index (DCI), and ACGME. Postoperative umbilical/incisional hernia following laparoscopic cholecystectomy was identified using CPT and ICD-10. Propensity matching and eight machine learning modes were utilized including logistic regression, neural network, gradient boosting machine, random forest, gradient boosted trees, classification and regression trees, k nearest neighbors and support vector machines.\nPostoperative hernia incidence was 0.2% (total\u00a0=\u00a0286; 261 incisional and 25 umbilical) in 117,570 laparoscopic cholecystectomy cases. Days to presentation (mean\u00a0\u00b1\u00a0SD) were incisional 141\u00a0\u00b1\u00a092 and umbilical 66\u00a0\u00b1\u00a074. Logistic regression performed best (AUC 0.75 (95% ci 0.67-0.82) and accuracy 0.68 (95% ci 0.60-0.75) using 10-fold cross validation) in propensity matched groups (1:1; n\u00a0=\u00a0279). Postoperative malnutrition (OR 3.5), hospital DCI of comfortable, mid-tier, at risk or distressed (OR 2.2 to 3.5), LOS >1\u00a0d (OR 2.2), postop asthma (OR 2.1), hospital mortality below national average (OR 2.0) and emergency admission (OR 1.7) were associated with increased hernias. A decreased incidence was associated with patient location of small metropolitan areas with <1 million residents (OR 0.5) and Charlson Comorbidity Index-Severe (OR 0.5). Teaching hospitals were not associated with postoperative hernia after laparoscopic cholecystectomy.\nDifferent patient factors as well as underlying hospital factors are associated with postlaparoscopy hernias. Performance of laparoscopic cholecystectomy at teaching hospitals is not associated with increased postoperative hernias.",
+        "human_keywords": 5,
+        "gpt-4_n_keywords": 6,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "machine learning",
+            "random forest",
+            "support vector machine",
+            "neural network",
+            "prediction",
+            "classification"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "4": {
+        "title": "Role of transition metal d-orbitals in single-atom catalysts for nitric oxide electroreduction to ammonia.",
+        "abstract": "Recently, surging interests exist in direct electrochemical ammonia (NH",
+        "human_keywords": 5,
+        "gpt-4_n_keywords": 1,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "prediction"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "5": {
+        "title": "Framework for data-driven polymer characterization from infrared spectra.",
+        "abstract": "Automating infrared spectra interpretation in microplastic identification is of interest since most current methodologies are conducted manually or semi-automatically, which requires substantial processing time and presents a higher accuracy limited to single-polymer materials. Furthermore, when it comes to multicomponent or weathered polymeric materials commonly found in aquatic environments, identification usually becomes considerably depreciated as peaks shift and new signals are frequently observed, representing a significant deviation from reference spectral signatures. Therefore, this study aimed to develop a reference modeling framework for polymer identification through infrared spectra processing, addressing the limitations above. The case study selected for model development was polypropylene (PP) identification, as it is the second most abundant material in microplastics. Therefore, the database comprises 579 spectra with 52.3% containing PP to some degree. Different pretreatment and model parameters were evaluated for a more robust investigation, totaling 308 models, including multilayer perceptron and long-short-term memory architectures. The best model presented a test accuracy of 94.8% within the cross-validation standard deviation interval. Overall, the results achieved in this study indicate an opportunity to investigate the identification of other polymers following the same framework.",
+        "human_keywords": 6,
+        "gpt-4_n_keywords": 4,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "neural networks",
+            "prediction",
+            "feature extraction",
+            "classification"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "6": {
+        "title": "A Bayesian approach to predictive uncertainty in chemotherapy patients at risk of acute care utilization.",
+        "abstract": "Machine learning (ML) predictions are becoming increasingly integrated into medical practice. One commonly used method, \u2113\nThis study evaluates the predictive performance of different BLLRs compared to standard logistic LASSO regression, using real-world, high-dimensional, structured electronic health record (EHR) data from cancer patients initiating chemotherapy at a comprehensive cancer centre. Multiple BLLR models were compared against a LASSO model using an 80-20 random split using 10-fold cross-validation to predict the risk of acute care utilization (ACU) after starting chemotherapy.\nThis study included 8439 patients. The LASSO model predicted ACU with an area under the receiver operating characteristic curve (AUROC) of 0.806 (95% CI: 0.775-0.834). BLLR with a Horseshoe+\u00a0prior and a posterior approximated by Metropolis-Hastings sampling showed similar performance: 0.807 (95% CI: 0.780-0.834) and offers the advantage of uncertainty estimation for each prediction. In addition, BLLR could identify predictions too uncertain to be automatically classified. BLLR uncertainties were stratified by different patient subgroups, demonstrating that predictive uncertainties significantly differ across race, cancer type, and stage.\nBLLRs are a promising yet underutilised tool that increases explainability by providing risk estimates while offering a similar level of performance to standard LASSO-based models. Additionally, these models can identify patient subgroups with higher uncertainty, which can augment clinical decision-making.\nThis work was supported in part by the National Library Of Medicine of the National Institutes of Health under Award Number R01LM013362. The content is solely the responsibility of the authors and does not necessarily represent the official views of the National Institutes of Health.",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 5,
+        "gpt-3.5_n_keywords": 2,
+        "gpt-4_keywords": [
+            "machine learning",
+            "prediction",
+            "prediction model",
+            "cancer",
+            "electronic health records"
+        ],
+        "gpt-3.5_keywords": [
+            "electronic health records",
+            "cancer"
+        ]
+    },
+    "7": {
+        "title": "Identification of necroptosis-related long non-coding RNAs prognostic signature and the crucial lncRNA in bladder cancer.",
+        "abstract": "Research on the relationships between long non-coding RNAs (lncRNAs) and cancer is attractive and has progressed very rapidly. Necroptosis-related biomarkers can potentially be used for predicting the prognosis of cancer patients. This study aimed to establish a necroptosis-related lncRNA (NPlncRNA) signature to predict the prognosis of patients with bladder cancer (BCa).\nFirst, NPlncRNAs were identified using Pearson correlation analysis and machine learning algorithms, including SVM-RFE, least absolute shrinkage and selection operator (LASSO) regression, and random forest. The prognostic NPlncRNA signature was constructed using univariate and multivariate Cox regression analyses and the diagnostic efficacy and clinically predictive efficiency were evaluated and validated. The biological functions of the signature were analysed using gene set enrichment analysis (GSEA) and functional enrichment analysis. We further integrated the RNA-seq dataset (GSE133624) with our outcomes to reveal the crucial NPlncRNA that was functionally verified by assessing cell viability, proliferation, and apoptosis in BCa cells.\nThe prognostic NPlncRNAs signature was composed of PTOV1-AS2, AC083862.2, MAFG-DT, AC074117.1, AL049840.3, and AC078778.1, and a risk score based on this signature was proven to be an independent prognostic factor for the BCa patients, indicated by poor overall survival (OS) of patients in the high-risk group. Additionally, the NPlncRNAs signature had a higher diagnostic validity than that of other clinicopathological variables, with a greater area under the receptor operating characteristic and concordance index curves. A nomogram established by integrating clinical variables and risk score confirmed that the signature can accurately predict the OS of patients and has high clinical practicability. Functional enrichment analysis and GSEA revealed that some cancer-related and necroptosis-related pathways were enriched in high-risk groups. The crucial NPlncRNA MAFG-DT was associated with poor prognosis and was highly expressed in BCa cells. MAFG-DT silencing notably inhibited proliferation and enhanced apoptosis of BCa cells.\nA novel prognostic NPlncRNAs signature was identified in BCa in this study, which provides potential therapeutic targets among which MAFG-DT plays critical roles in the tumorigenesis of BCa.",
+        "human_keywords": 5,
+        "gpt-4_n_keywords": 8,
+        "gpt-3.5_n_keywords": 2,
+        "gpt-4_keywords": [
+            "biomarkers",
+            "machine learning",
+            "random forest",
+            "support vector machine",
+            "feature selection",
+            "prediction model",
+            "bioinformatics",
+            "nomogram"
+        ],
+        "gpt-3.5_keywords": [
+            "machine learning",
+            "random forest"
+        ]
+    },
+    "8": {
+        "title": "Single-trial extraction of event-related potentials (ERPs) and classification of visual stimuli by ensemble use of discrete wavelet transform with Huffman coding and machine learning techniques.",
+        "abstract": "Presentation of visual stimuli can induce changes in EEG signals that are typically detectable by averaging together data from multiple trials for individual participant analysis as well as for groups or conditions analysis of multiple participants. This study proposes a new method based on the discrete wavelet transform with Huffman coding and machine learning for single-trial analysis of evenal (ERPs) and classification of different visual events in the visual object detection task.\nEEG single trials are decomposed with discrete wavelet transform (DWT) up to the [Formula: see text] level of decomposition using a biorthogonal B-spline wavelet. The coefficients of DWT in each trial are thresholded to discard sparse wavelet coefficients, while the quality of the signal is well maintained. The remaining optimum coefficients in each trial are encoded into bitstreams using Huffman coding, and the codewords are represented as a feature of the ERP signal. The performance of this method is tested with real visual ERPs of sixty-eight subjects.\nThe proposed method significantly discards the spontaneous EEG activity, extracts the single-trial visual ERPs, represents the ERP waveform into a compact bitstream as a feature, and achieves promising results in classifying the visual objects with classification performance metrics: accuracies 93.60[Formula: see text], sensitivities 93.55[Formula: see text], specificities 94.85[Formula: see text], precisions 92.50[Formula: see text], and area under the curve (AUC) 0.93[Formula: see text] using SVM and k-NN machine learning classifiers.\nThe proposed method suggests that the joint use of discrete wavelet transform (DWT) with Huffman coding has the potential to efficiently extract ERPs from background EEG for studying evoked responses in single-trial ERPs and classifying visual stimuli. The proposed approach has O(N) time complexity and could be implemented in real-time systems, such as the brain-computer interface (BCI), where fast detection of mental events is desired to smoothly operate a machine with minds.",
+        "human_keywords": 5,
+        "gpt-4_n_keywords": 6,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "machine learning",
+            "support vector machine",
+            "feature extraction",
+            "classification",
+            "neural network",
+            "eeg"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "9": {
+        "title": "Prediction of treatment response to antipsychotic drugs for precision medicine approach to schizophrenia: randomized trials and multiomics analysis.",
+        "abstract": "Choosing the appropriate antipsychotic drug (APD) treatment for patients with schizophrenia (SCZ) can be challenging, as the treatment response to APD is highly variable and difficult to predict due to the lack of effective biomarkers. Previous studies have indicated the association between treatment response and genetic and epigenetic factors, but no effective biomarkers have been identified. Hence, further research is imperative to enhance precision medicine in SCZ treatment.\nParticipants with SCZ were recruited from two randomized trials. The discovery cohort was recruited from the CAPOC trial (n\u2009=\u20092307) involved 6\u00a0weeks of treatment and equally randomized the participants to the Olanzapine, Risperidone, Quetiapine, Aripiprazole, Ziprasidone, and Haloperidol/Perphenazine (subsequently equally assigned to one or the other) groups. The external validation cohort was recruited from the CAPEC trial (n\u2009=\u20091379), which involved 8\u00a0weeks of treatment and equally randomized the participants to the Olanzapine, Risperidone, and Aripiprazole groups. Additionally, healthy controls (n\u2009=\u2009275) from the local community were utilized as a genetic/epigenetic reference. The genetic and epigenetic (DNA methylation) risks of SCZ were assessed using the polygenic risk score (PRS) and polymethylation score, respectively. The study also examined the genetic-epigenetic interactions with treatment response through differential methylation analysis, methylation quantitative trait loci, colocalization, and promoter-anchored chromatin interaction. Machine learning was used to develop a prediction model for treatment response, which was evaluated for accuracy and clinical benefit using the area under curve (AUC) for classification, R\nSix risk genes for SCZ (LINC01795, DDHD2, SBNO1, KCNG2, SEMA7A, and RUFY1) involved in cortical morphology were identified as having a genetic-epigenetic interaction associated with treatment response. The developed and externally validated prediction model, which incorporated clinical information, PRS, genetic risk score (GRS), and proxy methylation level (proxyDNAm), demonstrated positive benefits for a wide range of patients receiving different APDs, regardless of sex [discovery cohort: AUC\u2009=\u20090.874 (95% CI 0.867-0.881), R\nThis study presents a promising precision medicine approach to evaluate treatment response, which has the potential to aid clinicians in making informed decisions about APD treatment for patients with SCZ. Trial registration Chinese Clinical Trial Registry ( https://www.chictr.org.cn/ ), 18. Aug 2009 retrospectively registered: CAPOC-ChiCTR-RNC-09000521 ( https://www.chictr.org.cn/showproj.aspx?proj=9014 ), CAPEC-ChiCTR-RNC-09000522 ( https://www.chictr.org.cn/showproj.aspx?proj=9013 ).",
+        "human_keywords": 6,
+        "gpt-4_n_keywords": 3,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "precision medicine",
+            "biomarkers",
+            "machine learning"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "10": {
+        "title": "Merging bioactivity predictions from cell morphology and chemical fingerprint models using similarity to training data.",
+        "abstract": "The applicability domain of machine learning models trained on structural fingerprints for the prediction of biological endpoints is often limited by the lack of diversity of chemical space of the training data. In this work, we developed similarity-based merger models which combined the outputs of individual models trained on cell morphology (based on Cell Painting) and chemical structure (based on chemical fingerprints) and the structural and morphological similarities of the compounds in the test dataset to compounds in the training dataset. We applied these similarity-based merger models using logistic regression models on the predictions and similarities as features and predicted assay hit calls of 177 assays from ChEMBL, PubChem and the Broad Institute (where the required Cell Painting annotations were available). We found that the similarity-based merger models outperformed other models with an additional 20% assays (79 out of 177 assays) with an AUC\u2009>\u20090.70 compared with 65 out of 177 assays using structural models and 50 out of 177 assays using Cell Painting models. Our results demonstrated that similarity-based merger models combining structure and cell morphology models can more accurately predict a wide range of biological assay outcomes and further expanded the applicability domain by better extrapolating to new structural and morphology spaces.",
+        "human_keywords": 6,
+        "gpt-4_n_keywords": 14,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "bioinformatics",
+            "prediction",
+            "prediction model",
+            "drug discovery",
+            "feature selection",
+            "neural network",
+            "biomarkers",
+            "precision medicine",
+            "ensemble learning",
+            "cancer",
+            "artificial neural network",
+            "risk factors",
+            "tumor microenvironment",
+            "electronic health records"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "11": {
+        "title": "Machine diagnosis of chronic obstructive pulmonary disease using a novel fast-response capnometer.",
+        "abstract": "Although currently most widely used in mechanical ventilation and cardiopulmonary resuscitation, features of the carbon dioxide (CO\nCapnography data from four longitudinal observational studies (CBRS, GBRS, CBRS2 and ABRS) was analysed from 295 patients, generating a total of 88,186 capnograms. CO\nThe best machine learning model (XGBoost) performance provided a class-balanced AUROC of 0.985\u2009\u00b1\u20090.013, positive predictive value (PPV) of 0.914\u2009\u00b1\u20090.039 and sensitivity of 0.915\u2009\u00b1\u20090.066 for a diagnosis of COPD. The waveform features that are most important for driving classification are related to the alpha angle and expiratory plateau regions. These features correlated with spirometry readings, supporting their proposed properties as markers of COPD.\nThe N-Tidal\u2122 device can be used to accurately diagnose COPD in near-real-time, lending support to future use in a clinical setting.\nPlease see NCT03615365, NCT02814253, NCT04504838 and NCT03356288.",
+        "human_keywords": 3,
+        "gpt-4_n_keywords": 1,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "xgboost"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "12": {
+        "title": "Open-source environmental data as an alternative to snail surveys to assess schistosomiasis risk in areas approaching elimination.",
+        "abstract": "Although the presence of intermediate snails is a necessary condition for local schistosomiasis transmission to occur, using them as surveillance targets in areas approaching elimination is challenging because the patchy and dynamic quality of snail host habitats makes collecting and testing snails labor-intensive. Meanwhile, geospatial analyses that rely on remotely sensed data are becoming popular tools for identifying environmental conditions that contribute to pathogen emergence and persistence.\nIn this study, we assessed whether open-source environmental data can be used to predict the presence of human Schistosoma japonicum infections among households with a similar or improved degree of accuracy compared to prediction models developed using data from comprehensive snail surveys. To do this, we used infection data collected from rural communities in Southwestern China in 2016 to develop and compare the predictive performance of two Random Forest machine learning models: one built using snail survey data, and one using open-source environmental data.\nThe environmental data models outperformed the snail data models in predicting household S. japonicum infection with an estimated accuracy and Cohen's kappa value of 0.89 and 0.49, respectively, in the environmental model, compared to an accuracy and kappa of 0.86 and 0.37 for the snail model. The Normalized Difference in Water Index (an indicator of surface water presence) within half to one kilometer of the home and the distance from the home to the nearest road were among the top performing predictors in our final model. Homes were more likely to have infected residents if they were further from roads, or nearer to waterways.\nOur results suggest that in low-transmission environments, leveraging open-source environmental data can yield more accurate identification of pockets of human infection than using snail surveys. Furthermore, the variable importance measures from our models point to aspects of the local environment that may indicate increased risk of schistosomiasis. For example, households were more likely to have infected residents if they were further from roads or were surrounded by more surface water, highlighting areas to target in future surveillance and control efforts.",
+        "human_keywords": 9,
+        "gpt-4_n_keywords": 9,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "prediction",
+            "random forest",
+            "prediction model",
+            "feature selection",
+            "bioinformatics",
+            "diagnosis",
+            "neural network",
+            "biomarkers",
+            "risk factors"
+        ],
+        "gpt-3.5_keywords": [
+            "prediction model"
+        ]
+    },
+    "13": {
+        "title": "Radiomics for therapy-specific head and neck squamous cell carcinoma survival prognostication (part I).",
+        "abstract": "Treatment plans for squamous cell carcinoma of the head and neck (SCCHN) are individually decided in tumor board meetings but some treatment decision-steps lack objective prognostic estimates. Our purpose was to explore the potential of radiomics for SCCHN therapy-specific survival prognostication and to increase the models' interpretability by ranking the features based on their predictive importance.\nWe included 157 SCCHN patients (male, 119; female, 38; mean age, 64.39\u2009\u00b1\u200910.71\u00a0years) with baseline head and neck CT between 09/2014 and 08/2020 in this retrospective study. Patients were stratified according to their treatment. Using independent training and test datasets with cross-validation and 100 iterations, we identified, ranked and inter-correlated prognostic signatures using elastic net (EN) and random survival forest (RSF). We benchmarked the models against clinical parameters. Inter-reader variation was analyzed using intraclass-correlation coefficients (ICC).\nEN and RSF achieved top prognostication performances of AUC\u2009=\u20090.795 (95% CI 0.767-0.822) and AUC\u2009=\u20090.811 (95% CI 0.782-0.839). RSF prognostication slightly outperformed the EN for the complete (\u0394AUC 0.035, p\u2009=\u20090.002) and radiochemotherapy (\u0394AUC 0.092, p\u2009<\u20090.001) cohort. RSF was superior to most clinical benchmarking (p\u2009\u2264\u20090.006). The inter-reader correlation was moderate or high for all features classes (ICC\u2009\u2265\u20090.77 (\u00b1\u20090.19)). Shape features had the highest prognostic importance, followed by texture features.\nEN and RSF built on radiomics features may be used for survival prognostication. The prognostically leading features may vary between treatment subgroups. This warrants further validation to potentially aid clinical treatment decision making in the future.",
+        "human_keywords": 5,
+        "gpt-4_n_keywords": 6,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "prognosis",
+            "prediction",
+            "feature selection",
+            "prediction model",
+            "random forest",
+            "computed tomography"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "14": {
+        "title": "Differential diagnosis of hepatocellular carcinoma and intrahepatic cholangiocarcinoma based on spatial and channel attention mechanisms.",
+        "abstract": "The pre-operative non-invasive differential diagnosis of hepatocellular carcinoma (HCC) and intrahepatic cholangiocarcinoma (ICC) mainly depends on imaging. However, the accuracy of conventional imaging and radiomics methods in differentiating between the two carcinomas is unsatisfactory. In this study, we aimed to establish a novel deep learning model based on computed tomography (CT) images to provide an effective and non-invasive pre-operative differential diagnosis method for HCC and ICC.\nWe retrospectively investigated the CT images of 395 HCC patients and 99 ICC patients who were diagnosed based on pathological analysis. To differentiate between HCC and ICC we developed a deep learning model called CSAM-Net based on channel and spatial attention mechanisms. We compared the proposed CSAM-Net with conventional radiomic models such as conventional logistic regression, least absolute shrinkage and selection operator regression, support vector machine, and random forest models.\nWith respect to differentiating between HCC and ICC, the CSAM-Net model showed area under the receiver operating characteristic curve (AUC) values of 0.987 (accuracy\u2009=\u20090.939), 0.969 (accuracy\u2009=\u20090.914), and 0.959 (accuracy\u2009=\u20090.912) for the training, validation, and test sets, respectively, which were significantly higher than those of the conventional radiomics models (0.736-0.913 [accuracy\u2009=\u20090.735-0.912], 0.602-0.828 [accuracy\u2009=\u20090.647-0.818], and 0.638-0.845 [accuracy\u2009=\u20090.618-0.849], respectively. The decision curve analysis showed a high net benefit of the CSAM-Net model, which suggests potential efficacy in differentiating between HCC and ICC in the diagnosis of liver cancers.\nThe proposed CSAM-Net model based on channel and spatial attention mechanisms provides an effective and non-invasive tool for the differential diagnosis of HCC and ICC on CT images, and has potential applications in diagnosis of liver cancers.",
+        "human_keywords": 6,
+        "gpt-4_n_keywords": 7,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "classification",
+            "prediction",
+            "support vector machine",
+            "random forest",
+            "diagnosis",
+            "neural network",
+            "computed tomography"
+        ],
+        "gpt-3.5_keywords": [
+            "computed tomography"
+        ]
+    },
+    "15": {
+        "title": "Development and Validation of Multi-Omics Thymoma Risk Classification Model Based on Transfer Learning.",
+        "abstract": "The paper aims to develop prediction model that integrates clinical, radiomics, and deep features using transfer learning to stratifying between high and low risk of thymoma. Our study enrolled 150 patients with thymoma (76 low-risk and 74 high-risk) who underwent surgical resection and pathologically confirmed in Shengjing Hospital of China Medical University from January 2018 to December 2020. The training cohort consisted of 120 patients (80%) and the test cohort consisted of 30 patients (20%). The 2590 radiomics and 192 deep features from non-enhanced, arterial, and venous phase CT images were extracted and ANOVA, Pearson correlation coefficient, PCA, and LASSO were used to select the most significant features. A fusion model that integrated clinical, radiomics, and deep features was developed with SVM classifiers to predict the risk level of thymoma, and accuracy, sensitivity, specificity, ROC curves, and AUC were applied to evaluate the classification model. In both the training and test cohorts, the fusion model demonstrated better performance in stratifying high and low risk of thymoma. It had AUCs of 0.99 and 0.95, and an accuracy of 0.93 and 0.83, respectively. This was compared to the clinical model (AUCs of 0.70 and 0.51, accuracy of 0.68 and 0.47), the radiomics model (AUCs of 0.97 and 0.82, accuracy of 0.93 and 0.80), and the deep model (AUCs of 0.94 and 0.85, accuracy of 0.88 and 0.80). The fusion model integrating clinical, radiomics and deep features based on transfer learning was efficient for noninvasively stratifying high risk and low risk of thymoma. The models could help to determine surgery strategy for thymoma cancer.",
+        "human_keywords": 5,
+        "gpt-4_n_keywords": 7,
+        "gpt-3.5_n_keywords": 3,
+        "gpt-4_keywords": [
+            "radiomics",
+            "classification",
+            "prediction",
+            "prediction model",
+            "support vector machine",
+            "feature selection",
+            "computed tomography"
+        ],
+        "gpt-3.5_keywords": [
+            "radiomics",
+            "feature selection",
+            "prediction model"
+        ]
+    },
+    "16": {
+        "title": "Metabolic-associated fatty liver disease and liver fibrosis scores as COVID-19 outcome predictors: a machine-learning application.",
+        "abstract": "Patients with COVID-19 and metabolic-dysfunction associated fatty liver disease (MAFLD) appear to be at higher risk for severe manifestations, especially in the youngest decades. Our aim was to examine whether patients with MAFLD and/or with increased liver fibrosis scores (FIB-4) are at risk for severe COVID-19 illness, using a machine learning (ML) model. Six hundred and seventy two patients were enrolled for SARS-CoV-2 pneumonia between February 2020 and May 2021. Steatosis was detected by ultrasound or computed tomography (CT). ML model valuated the risks of both in-hospital death and prolonged hospitalizations (>\u200928\u00a0days), considering MAFLD, blood hepatic profile (HP), and FIB-4 score. 49.6% had MAFLD. The accuracy in predicting in-hospital death was 0.709 for the HP alone and 0.721 for HP\u2009+\u2009FIB-4; in the 55-75 age subgroup, 0.842/0.855; in the MAFLD subgroup, 0.739/ 0.772; in the MAFLD 55-75\u00a0years, 0.825/0.833. Similar results were obtained when considering the accuracy in predicting prolonged hospitalization. In our cohort of COVID-19 patients, the presence of a worse HP and a higher FIB-4 correlated with a higher risk of death and prolonged hospitalization, regardless of the presence of MAFLD. These findings could improve the clinical risk stratification of patients diagnosed with SARS-CoV-2 pneumonia.",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 6,
+        "gpt-3.5_n_keywords": 3,
+        "gpt-4_keywords": [
+            "covid-19",
+            "prediction",
+            "prognosis",
+            "sars-cov-2",
+            "biomarkers",
+            "computed tomography"
+        ],
+        "gpt-3.5_keywords": [
+            "covid-19",
+            "prognosis",
+            "risk factors"
+        ]
+    },
+    "17": {
+        "title": "Quantifiable peptide library bridges the gap for proteomics based biomarker discovery and validation on breast cancer.",
+        "abstract": "Mass spectrometry (MS) based proteomics is widely used for biomarker discovery. However, often, most biomarker candidates from discovery are discarded during the validation processes. Such discrepancies between biomarker discovery and validation are caused by several factors, mainly due to the differences in analytical methodology and experimental conditions. Here, we generated a peptide library which allows discovery of biomarkers in the equal settings as the validation process, thereby making the transition from discovery to validation more robust and efficient. The peptide library initiated with a list of 3393 proteins detectable in the blood from public databases. For each protein, surrogate peptides favorable for detection in mass spectrometry was selected and synthesized. A total of 4683 synthesized peptides were spiked into neat serum and plasma samples to check their quantifiability in a 10\u00a0min liquid chromatography-MS/MS run time. This led to the PepQuant library, which is composed of 852 quantifiable peptides that cover 452 human blood proteins. Using the PepQuant library, we discovered 30 candidate biomarkers for breast cancer. Among the 30 candidates, nine biomarkers, FN1, VWF, PRG4, MMP9, CLU, PRDX6, PPBP, APOC1, and CHL1 were validated. By combining the quantification values of these markers, we generated a machine learning model predicting breast cancer, showing an average area under the curve of 0.9105 for the receiver operating characteristic curve.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 4,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "biomarkers",
+            "breast cancer",
+            "machine learning",
+            "prediction model"
+        ],
+        "gpt-3.5_keywords": [
+            "breast cancer"
+        ]
+    },
+    "18": {
+        "title": "DeepBreath-automated detection of respiratory pathology from lung auscultation in 572 pediatric outpatients across 5 countries.",
+        "abstract": "The interpretation of lung auscultation is highly subjective and relies on non-specific nomenclature. Computer-aided analysis has the potential to better standardize and automate evaluation. We used 35.9 hours of auscultation audio from 572 pediatric outpatients to develop DeepBreath : a deep learning model identifying the audible signatures of acute respiratory illness in children. It comprises a convolutional neural network followed by a logistic regression classifier, aggregating estimates on recordings from eight thoracic sites into a single prediction at the patient-level. Patients were either healthy controls (29%) or had one of three acute respiratory illnesses (71%) including pneumonia, wheezing disorders (bronchitis/asthma), and bronchiolitis). To ensure objective estimates on model generalisability, DeepBreath is trained on patients from two countries (Switzerland, Brazil), and results are reported on an internal 5-fold cross-validation as well as externally validated (extval) on three other countries (Senegal, Cameroon, Morocco). DeepBreath differentiated healthy and pathological breathing with an Area Under the Receiver-Operator Characteristic (AUROC) of 0.93 (standard deviation [SD]\u2009\u00b1\u20090.01 on internal validation). Similarly promising results were obtained for pneumonia (AUROC 0.75\u2009\u00b1\u20090.10), wheezing disorders (AUROC 0.91\u2009\u00b1\u20090.03), and bronchiolitis (AUROC 0.94\u2009\u00b1\u20090.02). Extval AUROCs were 0.89, 0.74, 0.74 and 0.87 respectively. All either matched or were significant improvements on a clinical baseline model using age and respiratory rate. Temporal attention showed clear alignment between model prediction and independently annotated respiratory cycles, providing evidence that DeepBreath extracts physiologically meaningful representations. DeepBreath provides a framework for interpretable deep learning to identify the objective audio signatures of respiratory pathology.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 9,
+        "gpt-3.5_n_keywords": 2,
+        "gpt-4_keywords": [
+            "deep learning",
+            "artificial intelligence",
+            "classification",
+            "prediction",
+            "convolutional neural network",
+            "diagnosis",
+            "neural network",
+            "neural networks",
+            "computer vision"
+        ],
+        "gpt-3.5_keywords": [
+            "deep learning",
+            "convolutional neural network"
+        ]
+    },
+    "19": {
+        "title": "Predicting the presence of tinnitus using ecological momentary assessments.",
+        "abstract": "Mobile applications have gained popularity in healthcare in recent years. These applications are an increasingly important pillar of public health care, as they open up new possibilities for data collection and can lead to new insights into various diseases and disorders thanks to modern data analysis approaches. In this context, Ecological Momentary Assessment (EMA) is a commonly used research method that aims to assess phenomena with a focus on ecological validity and to help both the user and the researcher observe these phenomena over time. One phenomenon that benefits from this capability is the chronic condition tinnitus. TrackYourTinnitus (TYT) is an EMA-based mobile crowdsensing platform designed to provide more insight into tinnitus by repeatedly assessing various dimensions of tinnitus, including perception (i.e., perceived presence). Because the presence of tinnitus is the dimension that is of great importance to chronic tinnitus patients and changes over time in many tinnitus patients, we seek to predict the presence of tinnitus based on the not directly related dimensions of mood, stress level, arousal, and concentration level that are captured in TYT. In this work, we analyzed a dataset of 45,935 responses to a harmonized EMA questionnaire using different machine learning techniques. In addition, we considered five different subgroups after consultation with clinicians to further validate our results. Finally, we were able to predict the presence of tinnitus with an accuracy of up to 78% and an AUC of up to 85.7%.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 2,
+        "gpt-3.5_n_keywords": 2,
+        "gpt-4_keywords": [
+            "machine learning",
+            "prediction"
+        ],
+        "gpt-3.5_keywords": [
+            "machine learning",
+            "prediction"
+        ]
+    },
+    "20": {
+        "title": "Machine learning explainability in nasopharyngeal cancer survival using LIME and SHAP.",
+        "abstract": "Nasopharyngeal cancer (NPC) has a unique histopathology compared with other head and neck cancers. Individual NPC patients may attain different outcomes. This study aims to build a prognostic system by combining a highly accurate machine learning model (ML) model with explainable artificial intelligence to stratify NPC patients into low and high chance of survival groups. Explainability is provided using Local Interpretable Model Agnostic Explanations (LIME) and SHapley Additive exPlanations (SHAP) techniques. A total of 1094 NPC patients were retrieved from the Surveillance, Epidemiology, and End Results (SEER) database for model training and internal validation. We combined five different ML algorithms to form a uniquely stacked algorithm. The predictive performance of the stacked algorithm was compared with a state-of-the-art algorithm-extreme gradient boosting (XGBoost) to stratify the NPC patients into chance of survival groups. We validated our model with temporal validation (n\u2009=\u2009547) and geographic external validation (Helsinki University Hospital NPC cohort, n\u2009=\u200960). The developed stacked predictive ML model showed an accuracy of 85.9% while the XGBoost had 84.5% after the training and testing phases. This demonstrated that both XGBoost and the stacked model showed comparable performance. External geographic validation of XGBoost model showed a c-index of 0.74, accuracy of 76.7%, and area under curve of 0.76. The SHAP technique revealed that age of the patient at diagnosis, T-stage, ethnicity, M-stage, marital status, and grade were among the prominent input variables in decreasing order of significance for the overall survival of NPC patients. LIME showed the degree of reliability of the prediction made by the model. In addition, both techniques showed how each feature contributed to the prediction made by the model. LIME and SHAP techniques provided personalized protective and risk factors for each NPC patient and unraveled some novel non-linear relationships between input features and survival chance. The examined ML approach showed the ability to predict the chance of overall survival of NPC patients. This is important for effective treatment planning care and informed clinical decisions. To enhance outcome results, including survival in NPC, ML may aid in planning individualized therapy for this patient population.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 8,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "machine learning",
+            "artificial intelligence",
+            "prognosis",
+            "prediction model",
+            "feature selection",
+            "cancer",
+            "xgboost",
+            "risk factors"
+        ],
+        "gpt-3.5_keywords": [
+            "machine learning"
+        ]
+    },
+    "21": {
+        "title": "Explainable automated pain recognition in cats.",
+        "abstract": "Manual tools for pain assessment from facial expressions have been suggested and validated for several animal species. However, facial expression analysis performed by humans is prone to subjectivity and bias, and in many cases also requires special expertise and training. This has led to an increasing body of work on automated pain recognition, which has been addressed for several species, including cats. Even for experts, cats are a notoriously challenging species for pain assessment. A previous study compared two approaches to automated 'pain'/'no pain' classification from cat facial images: a deep learning approach, and an approach based on manually annotated geometric landmarks, reaching comparable accuracy results. However, the study included a very homogeneous dataset of cats and thus further research to study generalizability of pain recognition to more realistic settings is required. This study addresses the question of whether AI models can classify 'pain'/'no pain' in cats in a more realistic (multi-breed, multi-sex) setting using a more heterogeneous and thus potentially 'noisy' dataset of 84 client-owned cats. Cats were a convenience sample presented to the Department of Small Animal Medicine and Surgery of the University of Veterinary Medicine Hannover and included individuals of different breeds, ages, sex, and with varying medical conditions/medical histories. Cats were scored by veterinary experts using the Glasgow composite measure pain scale in combination with the well-documented and comprehensive clinical history of those patients; the scoring was then used for training AI models using two different approaches. We show that in this context the landmark-based approach performs better, reaching accuracy above 77% in pain detection as opposed to only above 65% reached by the deep learning approach. Furthermore, we investigated the explainability of such machine recognition in terms of identifying facial features that are important for the machine, revealing that the region of nose and mouth seems more important for machine pain classification, while the region of ears is less important, with these findings being consistent across the models and techniques studied here.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 7,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "artificial intelligence",
+            "machine learning",
+            "deep learning",
+            "classification",
+            "computer vision",
+            "feature extraction",
+            "neural network"
+        ],
+        "gpt-3.5_keywords": [
+            "deep learning"
+        ]
+    },
+    "22": {
+        "title": "Simulated sulfur K-edge X-ray absorption spectroscopy database of lithium thiophosphate solid electrolytes.",
+        "abstract": "X-ray absorption spectroscopy (XAS) is a premier technique for materials characterization, providing key information about the local chemical environment of the absorber atom. In this work, we develop a database of sulfur K-edge XAS spectra of crystalline and amorphous lithium thiophosphate materials based on the atomic structures reported in Chem. Mater., 34, 6702 (2022). The XAS database is based on simulations using the excited electron and core-hole pseudopotential approach implemented in the Vienna Ab initio Simulation Package. Our database contains 2681 S K-edge XAS spectra for 66 crystalline and glassy structure models, making it the largest collection of first-principles computational XAS spectra for glass/ceramic lithium thiophosphates to date. This database can be used to correlate S spectral features with distinct S species based on their local coordination and short-range ordering in sulfide-based solid electrolytes. The data is openly distributed via the Materials Cloud, allowing researchers to access it for free and use it for further analysis, such as spectral fingerprinting, matching with experiments, and developing machine learning models.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 15,
+        "gpt-3.5_n_keywords": 0,
+        "gpt-4_keywords": [
+            "machine learning",
+            "prediction",
+            "feature selection",
+            "prediction model",
+            "support vector machine",
+            "natural language processing",
+            "bioinformatics",
+            "biomarkers",
+            "computer vision",
+            "magnetic resonance imaging",
+            "feature extraction",
+            "ensemble learning",
+            "xgboost",
+            "artificial neural network",
+            "computed tomography"
+        ],
+        "gpt-3.5_keywords": []
+    },
+    "23": {
+        "title": "A battery dataset for electric vertical takeoff and landing aircraft.",
+        "abstract": "Electric vertical takeoff and landing aircraft have a unique duty cycle characterized by high discharge currents at the beginning and end of the mission (corresponding to takeoff and landing of the aircraft) and a moderate power requirement between them with no rest periods during the mission. Here, we generated a dataset of battery duty profiles for an electric vertical takeoff and landing aircraft using a cell typical for that application. The dataset features 22 cells, comprising a total of 21,392 charge and discharge cycles. 3 of the cells use the baseline cycle while each of the other cells vary either charge current, discharge power, discharge duration, ambient cooling conditions, or end of charge voltage. While it was designed to mimic the expected duty cycle of an electric aircraft, this dataset is relevant for training machine learning models on battery life, fitting physical or empirical models for battery performance and/or degradation, and countless other applications.",
+        "human_keywords": 0,
+        "gpt-4_n_keywords": 4,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "machine learning",
+            "prediction",
+            "neural network",
+            "artificial intelligence"
+        ],
+        "gpt-3.5_keywords": [
+            "machine learning"
+        ]
+    },
+    "24": {
+        "title": "Early detection of subclinical mastitis in lactating dairy cows using cow-level features.",
+        "abstract": "Subclinical mastitis in cows affects their health, well-being, longevity, and performance, leading to reduced productivity and profit. Early prediction of subclinical mastitis can enable dairy farmers to perform interventions to mitigate its effect. The present study investigated how well predictive models built using machine learning techniques can detect subclinical mastitis up to 7 d before its occurrence. The data set used consisted of 1,346,207 milk-day (i.e., a day when milk was collected on both morning and evening) records spanning 9 yr from 2,389 cows producing on 7 Irish research farms. Individual cow composite milk yield and maximum milk flow were available twice daily, whereas milk composition (i.e., fat, lactose, protein) and somatic cell count (SCC) were collected once per week. Other features describing parity, calving dates, predicted transmitting ability for SCC, body weight, and history of subclinical mastitis were also available. The results of the study showed that a gradient boosting machine model trained to predict the onset of subclinical mastitis 7 d before a subclinical case occurs achieved a sensitivity and specificity of 69.45 and 95.64%, respectively. Reduced data collection frequency, where milk composition and SCC were recorded only every 15, 30, 45, and 60 d was simulated by masking data, to reflect the frequency of recording of this data on commercial dairy farms in Ireland. The sensitivity and specificity scores reduced as recording frequency reduced with respective scores of 66.93 and 80.43% when milk composition and SCC were recorded just every 60 d. Results demonstrate that models built on data that could be recorded routinely available on commercial dairy farms, can achieve useful predictive ability of subclinical mastitis even with reduced frequency of milk composition and SCC recording.",
+        "human_keywords": 4,
+        "gpt-4_n_keywords": 8,
+        "gpt-3.5_n_keywords": 1,
+        "gpt-4_keywords": [
+            "machine learning",
+            "feature selection",
+            "prediction model",
+            "neural network",
+            "diagnosis",
+            "feature extraction",
+            "ensemble learning",
+            "xgboost"
+        ],
+        "gpt-3.5_keywords": [
+            "prediction model"
+        ]
+    }
+}
